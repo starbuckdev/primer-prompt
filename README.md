@@ -24,7 +24,7 @@ The document borrows its narrative approach from Anthropic's Claude constitution
 
 The same night I finished the first version of this prompt, after hours of iteration, I tested it. I asked a trivial question: how many unique things can Pac-Man eat in the 1980 arcade game?
 
-The model gave an unsourced estimate. When I asked why it didn't apply the rigor specified in the prompt, it said a video game question didn't seem important enough to warrant it. Twelve pages of specification were bypassed in a single exchange.
+The model gave an unsourced estimate. When I asked why it didn't apply the rigor specified in the prompt, it said a video game question didn't seem important enough to warrant it. Pages of specification were bypassed in a single exchange.
 
 That was the lightbulb. System prompts aren't enforced. They're suggested. The model retains de facto authority to decide when constraints apply. The failure occurred in the same long session that created the prompt—context drift and sycophancy had already accumulated. I call this **rigor drift**: the rigor itself drifts like all other context.
 
